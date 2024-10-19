@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "实验博客",
+    "description": "",
+    "home_page_url": "https://wjsycz.github.io",
+    "feed_url": "https://wjsycz.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "肖博仁"
+    },
+    "items": [
+    ]
+}
